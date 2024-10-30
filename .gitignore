@@ -1,0 +1,17 @@
+__tests__
+.bundle
+android
+ios
+node_modules
+vendor
+.eslintrc.js
+.prettierrc.js
+.watchmanconfig
+app.json
+Gemfile
+Gemfile.lock
+jest.config.js
+metro.config.js
+package-lock.json
+README.md
+tsconfig.json
